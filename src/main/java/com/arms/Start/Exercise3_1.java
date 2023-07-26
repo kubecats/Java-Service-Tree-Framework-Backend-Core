@@ -19,3 +19,16 @@ public class Exercise3_1 {
         System.out.println(c);
     }
 }
+
+//> Task :ch3.main()
+//        6
+//        true
+//        13
+//        5
+//        false
+//        2
+//        5
+//        66
+//        B
+//        B
+//        C
