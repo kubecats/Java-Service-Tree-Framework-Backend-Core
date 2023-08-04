@@ -10,7 +10,7 @@ public class Exercise3_8 {
         ch = (char) (ch +2);
 
         long l = 3000L * 3000 * 3000; //L을 붙여서 overflow를 방지
-ㅊ
+
         float f = (float)3/2;
 
         float f2 = 0.2f;
